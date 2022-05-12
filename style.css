@@ -9,7 +9,6 @@ min-height: 30% !important;
 }
 
 .bot-panel{
-    background: rgb(127, 219, 173);
     padding: 1em;
     box-shadow: 1px 1px 2px rgb(32, 32, 32);
     border-radius: 8px;
@@ -26,4 +25,14 @@ min-height: 30% !important;
     max-height: 4em;
     margin: 2% 0;
 
+    
+
+.shop-button{
+    transform: translateY(5%);
+
+}
+
+.plant-button{
+    transform: translateY(-200%);
+    
 }
