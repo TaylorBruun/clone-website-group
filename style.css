@@ -9,5 +9,21 @@ min-height: 30% !important;
 }
 
 .bot-panel{
-    
+    background: rgb(127, 219, 173);
+    padding: 1em;
+    box-shadow: 1px 1px 2px rgb(32, 32, 32);
+    border-radius: 8px;
+    margin: 2em 2em;
+    min-height: 15vh;
+}
+
+.bot-panel:hover{
+    transform: scale(1.01)
+}
+
+.bot-panel-img{
+    max-width: auto;
+    max-height: 4em;
+    margin: 2% 0;
+
 }
