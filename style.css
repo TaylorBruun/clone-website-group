@@ -9,6 +9,7 @@ min-height: 30% !important;
 }
 
 .bot-panel{
+    background: rgb(146, 255, 201);
     padding: 1em;
     box-shadow: 1px 1px 2px rgb(32, 32, 32);
     border-radius: 8px;
