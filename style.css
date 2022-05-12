@@ -11,3 +11,13 @@ min-height: 30% !important;
 .bot-panel{
     
 }
+
+.shop-button{
+    transform: translateY(5%);
+
+}
+
+.plant-button{
+    transform: translateY(-200%);
+    
+}
